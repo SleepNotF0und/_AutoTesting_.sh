@@ -22,8 +22,6 @@ Automation bash script which automate some security tasks from my bug bounty met
 .......Hunt The DOM XSS PostMessage from the JS Files  
 .  
 .  
-.  
-.
 ### USAGE:-  
 ./_AutoTesting_.sh -d https://dpduk-p-life-d2.web.app
 .  
