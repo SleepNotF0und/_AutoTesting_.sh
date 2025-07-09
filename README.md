@@ -27,9 +27,9 @@ Automation bash script which automate some security tasks from my bug bounty met
 .  
 .  
 ### REQUIREMENTS:-  
-waymore.py
-urlfinder Bash
-gau bash
-httpx bash
-SecretFinder.py
+waymore.py  
+urlfinder Bash  
+gau bash  
+httpx bash  
+SecretFinder.py  
 
