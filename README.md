@@ -1,6 +1,6 @@
 Automation bash script which automate some security tasks from my bug bounty methology  
 .  
-Key Features:-  
+# Key Features:-  
 1. Collect Target's Archive Urls using waymore.py, urlfinder & gau (Migrate result & filter unique urls)  
 2- Run Custom Vulnerabilities Test:-  
 ......Error-Based SQLi  
