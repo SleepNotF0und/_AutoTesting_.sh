@@ -23,7 +23,7 @@ USAGE:-
 ./_AutoTesting_.sh -d https://dpduk-p-life-d2.web.app
 .  
 .  
-REQUIREMENTS:-
+REQUIREMENTS:-  
 waymore.py
 urlfinder Bash
 gau bash
