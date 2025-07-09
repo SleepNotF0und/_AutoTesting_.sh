@@ -32,4 +32,7 @@ urlfinder Bash
 gau bash  
 httpx bash  
 SecretFinder.py  
+qsreplace bash  
+nuclei bash  
+LFI-small.txt
 
