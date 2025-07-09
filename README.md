@@ -15,3 +15,18 @@ Key Features:-
 .......Crawel unqiue pathes using HTTP Methods [GET, POST, PUT]  
 .......Run SecretFinder to discover secrets in JS Files  
 .......Hunt The DOM XSS PostMessage from the JS Files  
+.  
+.  
+.  
+.
+USAGE:-  
+./_AutoTesting_.sh -d https://dpduk-p-life-d2.web.app
+.  
+.  
+REQUIREMENTS:-
+waymore.py
+urlfinder Bash
+gau bash
+httpx bash
+SecretFinder.py
+
