@@ -11,14 +11,16 @@ Automation bash script which automate some security tasks from my bug bounty met
 ......Error-Based SQLi  
 ......Time-Based SQLi  
 ......Secret Header Fuzzing  
+......Testing HTTP-SSRF
 ......Sending BXSS Payloads in headers  
 ......Testing LFI  
 ......Testing Open Redirect  
 .  
 ### 3- Js Path Crawl & Secrets  
-.......Analyze Main target JS Files + Archive JS Files  
+.......Analyze Main target JS Files + Archive JS Files
+.......Crawel Js files with Katana Tool
+.......Run SecretFinder to discover secrets in JS Files
 .......Crawel unqiue pathes using HTTP Methods [GET, POST, PUT]  
-.......Run SecretFinder to discover secrets in JS Files  
 .......Hunt The DOM XSS PostMessage from the JS Files  
 .  
 .  
@@ -37,4 +39,4 @@ nuclei bash
 LFI-small.txt
 HTTP-SSRF.py
 Katana
-
+Arjun
