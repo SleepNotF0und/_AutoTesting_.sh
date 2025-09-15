@@ -35,4 +35,6 @@ SecretFinder.py
 qsreplace bash  
 nuclei bash  
 LFI-small.txt
+HTTP-SSRF.py
+Katana
 
