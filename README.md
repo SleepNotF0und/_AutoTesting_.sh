@@ -1,13 +1,15 @@
 Automation bash script which automate some security tasks from my bug bounty methology  
 .  
-## Key Features:-  
-###  1. Collect Target's Archive Urls:-
+## Key Features:- 
+###  1. Run Arjun Parameter Discovery on the Target
+. 
+###  2. Collect Target's Archive Urls:-
 ......using waymore.py  
 ......using urlfinder  
 ......using gau  
 (Migrate result & filter unique urls)  
 .  
-### 2- Run Custom Vulnerabilities Test:-  
+### 3- Run Custom Vulnerabilities Test:-  
 ......Error-Based SQLi  
 ......Time-Based SQLi  
 ......Secret Header Fuzzing  
@@ -16,7 +18,7 @@ Automation bash script which automate some security tasks from my bug bounty met
 ......Testing LFI  
 ......Testing Open Redirect  
 .  
-### 3- Js Path Crawl & Secrets  
+### 4- Js Path Crawl & Secrets  
 .......Analyze Main target JS Files + Archive JS Files
 .......Crawel Js files with Katana Tool
 .......Run SecretFinder to discover secrets in JS Files
